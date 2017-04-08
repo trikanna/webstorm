@@ -1,1 +1,15 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <JSCodeStyleSettings>
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+  </JSCodeStyleSettings>
+  <codeStyleSettings language="SASS">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
